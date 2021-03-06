@@ -8,8 +8,7 @@ I am currently working with engineering team at Cityflo looking to improve the c
 
 Skills: Python, AWS, Angular, C++, PostgreSQL, NoSQL, Tensorflow
 
-- 📫 How to reach me: DM me on linkedin 
-- 😄 Pronouns: He, His, Him 
+- 📫 How to reach me: DM me on linkedin
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Achint08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/achint-sharma-5b218b109/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/achint008)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/6725646/achint-sharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](@achintsharma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](https://blog.fossasia.org/author/Achint08/)  
